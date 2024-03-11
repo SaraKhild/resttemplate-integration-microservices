@@ -127,6 +127,8 @@ server.port = 8080
 server.port = 8082
 
 ```
+<br>
+
 ###### Output :star_struck:
 
 <img width="602" alt="resttemplateoutput" src="https://github.com/SaraKhild/resttemplate-integration-microservices/assets/67427643/106e3854-37c5-4b6f-a8e3-f792fc8c6e56">
