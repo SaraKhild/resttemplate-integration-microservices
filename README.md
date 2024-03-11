@@ -31,7 +31,6 @@ In this project, I have implemented department-service, user-service, and integr
   - Department
     - controller 
     - model 
-    - models 
     - dto
     - objectmapper
     - service 
@@ -48,7 +47,7 @@ In this project, I have implemented department-service, user-service, and integr
 
   ```
  <dependencies>
-   <dependency>
+          <dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
@@ -70,7 +69,7 @@ In this project, I have implemented department-service, user-service, and integr
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
-   </dependency>
+          </dependency>
 </dependencies>
   ```
 
@@ -80,7 +79,7 @@ In this project, I have implemented department-service, user-service, and integr
   
   ```
 <dependencies>
-  <dependency>
+          <dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
@@ -93,7 +92,7 @@ In this project, I have implemented department-service, user-service, and integr
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
-   </dependency>
+          </dependency>
 </dependencies>
   ```
 
@@ -128,7 +127,9 @@ server.port = 8080
 server.port = 8082
 
 ```
-## Let's Start :mechanical_arm:
+###### Output :star_struck:
+
+<img width="602" alt="resttemplateoutput" src="https://github.com/SaraKhild/resttemplate-integration-microservices/assets/67427643/106e3854-37c5-4b6f-a8e3-f792fc8c6e56">
 
 ---
 <br>
